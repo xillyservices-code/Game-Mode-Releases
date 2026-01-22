@@ -4,7 +4,7 @@
   <p><strong>Absolute Focus. Zero Latency.</strong></p>
   
   [![GitHub Release](https://img.shields.io/github/v/release/xillyservices-code/Game-Mode-Releases?color=0072FF&style=for-the-badge)](https://github.com/xillyservices-code/Game-Mode-Releases/releases/latest)
-  [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Community&style=for-the-badge)](https://dsc.gg/xilly)
+  [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/xilly)
 </div>
 
 <br />
