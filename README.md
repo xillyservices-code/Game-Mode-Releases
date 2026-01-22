@@ -41,8 +41,8 @@ If a specific game or app struggles with Game Mode, simply deactivate it.
 We've included a handy tool to help you get advice.
 1. Scroll to the bottom of the app.
 2. Click the **"Copy Specs"** button.
-3. Join our [Discord Community](https://discord.gg/xilly).
-4. Paste your specs in the `#community-support` channel for a free review by our community and optimizers.
+3. Join our [Discord Community](https://dsc.gg/xilly).
+4. Paste your specs in the `#specs-review` channel for a free review by our community and optimizers.
 
 ---
 
