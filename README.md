@@ -9,6 +9,14 @@
 
 <br />
 
+<div align="center">
+  <video src="Xilly_Game_Mode_Product_Trailer_Animation2.mp4" width="100%" controls autoplay loop muted>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<br />
+
 Xilly Game Mode is a competitive-grade optimization utility designed to instantly reallocate your PC's resources for maximum gaming performance. It eliminates micro-stutters, reduces input latency, and ensures your hardware delivers every frame it's capable of.
 
 > [!NOTE]
