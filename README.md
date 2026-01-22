@@ -10,9 +10,11 @@
 <br />
 
 <div align="center">
-  <video src="Xilly_Game_Mode_Product_Trailer_Animation2.mp4" width="100%" controls autoplay loop muted>
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/xillyservices-code/Game-Mode-Releases/blob/main/Xilly_Game_Mode_Product_Trailer_Animation2.mp4">
+    <img src="https://raw.githubusercontent.com/xillyservices-code/Game-Mode-Releases/main/HQ_Icon_Preview.png" width="600" alt="Click to Watch Trailer" />
+    <br>
+    <em>Click to Watch Trailer (10s)</em>
+  </a>
 </div>
 
 <br />
