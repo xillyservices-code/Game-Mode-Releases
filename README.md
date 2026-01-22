@@ -48,5 +48,5 @@ We've included a handy tool to help you get advice.
 
 <div align="center">
   <p>Running slow? Need a professional tune-up?</p>
-  <a href="https://xilly.net/services"><strong>Book an Professional Overclock at Xilly.net</strong></a>
+  <a href="https://xilly.net/pricing"><strong>Book a Professional Overclock at Xilly.net</strong></a>
 </div>
