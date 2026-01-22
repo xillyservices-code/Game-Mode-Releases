@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xilly/GameMode/main/HQ_Icon_Preview.png" alt="Xilly Game Mode Logo" width="120" />
+  <img src="HQ_Icon_Preview.png" alt="Xilly Game Mode Logo" width="120" />
   <h1>Xilly Game Mode</h1>
   <p><strong>Absolute Focus. Zero Latency.</strong></p>
   
-  [![GitHub Release](https://img.shields.io/github/v/release/Xilly/GameMode?color=0072FF&style=for-the-badge)](https://github.com/Xilly/GameMode/releases/latest)
+  [![GitHub Release](https://img.shields.io/github/v/release/xillyservices-code/Game-Mode-Releases?color=0072FF&style=for-the-badge)](https://github.com/xillyservices-code/Game-Mode-Releases/releases/latest)
   [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=Community&style=for-the-badge)](https://discord.gg/xilly)
 </div>
 
@@ -24,7 +24,7 @@ Xilly Game Mode is a competitive-grade optimization utility designed to instantl
 
 ## 🚀 How to Use
 
-1. **Download**: Grab the latest release from the [Releases Page](https://github.com/Xilly/GameMode/releases).
+1. **Download**: Grab the latest release from the [Releases Page](https://github.com/xillyservices-code/Game-Mode-Releases/releases).
 2. **Launch**: Run `Xilly Game Mode.exe` (Administrator privileges recommended for full optimization).
 3. **Activate**: Click the big **"Activate"** button.
     - Your screen may flicker briefly as the shell refreshes.
