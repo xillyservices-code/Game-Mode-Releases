@@ -3,12 +3,11 @@
   <h1>Xilly Game Mode</h1>
   <p><strong>Absolute Focus. Zero Latency.</strong></p>
   
+  > **📥 [Download Game Mode at Xilly.net](https://xilly.net) – Get instant access + email delivery**
+  
   [![GitHub Release](https://img.shields.io/github/v/release/xillyservices-code/Game-Mode-Releases?color=0072FF&style=for-the-badge)](https://github.com/xillyservices-code/Game-Mode-Releases/releases/latest)
   [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/xilly)
 </div>
-
-<br />
-
 
 
 Xilly Game Mode is a competitive-grade optimization utility designed to instantly reallocate your PC's resources for maximum gaming performance. It eliminates micro-stutters, reduces input latency, and ensures your hardware delivers every frame it's capable of.
@@ -26,7 +25,7 @@ Xilly Game Mode is a competitive-grade optimization utility designed to instantl
 
 ## 🚀 How to Use
 
-1. **Download**: Grab the latest release from the [Releases Page](https://github.com/xillyservices-code/Game-Mode-Releases/releases).
+1. **Download**: Grab the latest release from the [Releases Page](https://xilly.net).
 2. **Launch**: Run `Xilly Game Mode.exe` (Administrator privileges recommended for full optimization).
 3. **Activate**: Click the big **"Activate"** button.
     - Your screen may flicker briefly as the shell refreshes.
